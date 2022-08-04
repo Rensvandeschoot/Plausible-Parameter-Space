@@ -1,6 +1,8 @@
 # Plausible Parameter Space (PPS) Shiny App
 
-## :star: Purpose The Plausible Parameter Space (PPS) Shiny App is designed to
+##  :star: Purpose 
+
+The Plausible Parameter Space (PPS) Shiny App is designed to
 help users define their priors in a linear regression with two regression
 coefficients. Users are asked to specify their plausible parameter space and
 their expected prior means and uncertainty around these means. The PhD-delay
