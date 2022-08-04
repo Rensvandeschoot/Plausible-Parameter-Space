@@ -10,8 +10,5 @@ This repository contains files that are necessary to make Shiny App work. Please
 
 
 ### Contact
-[Laurent Smeets](https://laurentsmeets.com/) and [Rens van de Schoot](https://www.rensvandeschoot.com/)
+[Laurent Smeets](https://github.com/LaurentSmeets), [Ihnwhi Heo](https://github.com/IhnwhiHeo) or [Rens van de Schoot](https://github.com/Rensvandeschoot)
 
-### How to cite this Shiny App in APA style 
-
-Smeets, L., & Van de Schoot, R. (2020, September 30). Code for the ShinyApp to Determine the Plausible Parameter Space for the PhD-delay Data (Version v1.1). Zenodo. https://doi.org/10.5281/zenodo.4059418
