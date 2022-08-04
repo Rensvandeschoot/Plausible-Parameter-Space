@@ -38,6 +38,7 @@ left side bar and answer the various questions asked.
 
 ## Reference
 
+To cite the PhD-data:
 Van de Schoot, R., Yerkes, M.A., Mouw, J.M. & Sonneveld, H. (2013). What Took Them So Long? Explaining PhD Delays among Doctoral Candidates. PLoS One, 8(7): e68839. DOI: http://dx.doi.org/10.1371/journal.pone.0068839
 
 ## Funding
