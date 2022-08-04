@@ -5,6 +5,8 @@ The Plausible Parameter Space (PPS) Shiny App is designed to help users define t
 ### How to launch the Shiny App
 Go to this link: https://www.rensvandeschoot.com/tutorials/pps-app/ or https://utrecht-university.shinyapps.io/priors_phd/
 
+[![Overview of the Shiny App](pps-app.png)](https://utrecht-university.shinyapps.io/priors_phd/)
+
 ### Usage
 This repository contains files that are necessary to make Shiny App work. Please locate the www folder with ui.R and server.R.
 
