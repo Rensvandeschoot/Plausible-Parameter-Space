@@ -12,7 +12,9 @@ between a linear and a quadratic effect in the same model, about how to think
 about plausible parameter spaces, and about specification of normally
 distributed priors for regression coefficients.
 
-## :gem: How can you profit from it? First of all, this app might be a useful
+## :gem: How can you profit from it? 
+
+First of all, this app might be a useful
 tool for your teaching if you would like to familiarize your students with the
 basic logic of Bayesian inference. Second, feel free to use this material as a
 template for your own app. 
@@ -28,6 +30,8 @@ The Shiny app also runs at a server of [Utrecht University](https://www.rensvand
 
 The app is self-explanatory. Users can just follow the 4 steps listed in the
 left side bar and answer the various questions asked.
+
+[![Overview of FBI Shiny App](pps-app.png)](https://www.rensvandeschoot.com/tutorials/pps-app/)
 
 ## Contact
 [Laurent Smeets](https://github.com/LaurentSmeets), [Ihnwhi Heo](https://github.com/IhnwhiHeo) or [Rens van de Schoot](https://github.com/Rensvandeschoot)
